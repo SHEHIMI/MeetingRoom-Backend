@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\MeetingRoom\MeetingRoom.services\bin\Debug\net6.0\MeetingRoom.services.deps.json
+C:\Users\User\source\repos\MeetingRoom\MeetingRoom.services\bin\Debug\net6.0\MeetingRoom.services.dll
+C:\Users\User\source\repos\MeetingRoom\MeetingRoom.services\bin\Debug\net6.0\MeetingRoom.services.pdb
+C:\Users\User\source\repos\MeetingRoom\MeetingRoom.services\bin\Debug\net6.0\MeetingRoom.core.dll
+C:\Users\User\source\repos\MeetingRoom\MeetingRoom.services\bin\Debug\net6.0\MeetingRoom.core.pdb
+C:\Users\User\source\repos\MeetingRoom\MeetingRoom.services\obj\Debug\net6.0\MeetingRoom.services.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MeetingRoom\MeetingRoom.services\obj\Debug\net6.0\MeetingRoom.services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MeetingRoom\MeetingRoom.services\obj\Debug\net6.0\MeetingRoom.services.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MeetingRoom\MeetingRoom.services\obj\Debug\net6.0\MeetingRoom.services.AssemblyInfo.cs
+C:\Users\User\source\repos\MeetingRoom\MeetingRoom.services\obj\Debug\net6.0\MeetingRoom.services.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MeetingRoom\MeetingRoom.services\obj\Debug\net6.0\MeetingRoom.services.csproj.CopyComplete
+C:\Users\User\source\repos\MeetingRoom\MeetingRoom.services\obj\Debug\net6.0\MeetingRoom.services.dll
+C:\Users\User\source\repos\MeetingRoom\MeetingRoom.services\obj\Debug\net6.0\refint\MeetingRoom.services.dll
+C:\Users\User\source\repos\MeetingRoom\MeetingRoom.services\obj\Debug\net6.0\MeetingRoom.services.pdb
+C:\Users\User\source\repos\MeetingRoom\MeetingRoom.services\obj\Debug\net6.0\ref\MeetingRoom.services.dll
